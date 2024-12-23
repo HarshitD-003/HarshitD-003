@@ -4,9 +4,9 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWplanhva2ZiaXVqa2d1dGJkOGpkM3d0OHhnNGthMGx5azk2eTY1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sr8jYZVVsCmxddga8w/giphy.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the real estate industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **Computer Science** student, currently in my pre-final year, I am expanding my knowledge in both front-end and back-end development. I have experience as a web developer for the real estate industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning **MERN Stack**
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
@@ -72,6 +72,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 <br>
 
+
+[![](https://visitcount.itsvg.in/api?id=HarshitD-003&icon=5&color=0)](https://visitcount.itsvg.in)
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best*** -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
@@ -80,20 +82,32 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitD-003&theme=nightowl&hide_border=false)
 
 <br>
 <p align="center">
 <table align="center">
 <tr>
+    <td colspan="2" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitD-003&theme=dark" />
+    </td>
+</tr>
+<tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HarshitD-003&theme=nightowl&show_icons=true&count_private=true" />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=HarshitD-003&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshitD-003&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitD-003&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </td>
 </tr>
+    <tr>
+        <td width="50%" align="center">
+            <strong>🔝 Top Contributed Repositories</strong><br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=HarshitD-003&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo">
+        </td>
+        <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitD-003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&langs_count=10"/>
+        </td>
+    </tr>
 </table>
 </p>
 <br>
